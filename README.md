@@ -1,5 +1,6 @@
 # Project_3_Data_Viz_Group_1
-# Class Project #3- Data Viz track will tell a story using data visualizations. Interactivity sohuld be built in, allowing users to explore data on their own
+# Goal of Class Project #3
+  Data Viz track will tell a story using data visualizations. Interactivity sohuld be built in, allowing users to explore data on their own
 
 # Data and Delivery 
 - The dataset contains at least 100 unique records. 
