@@ -37,7 +37,7 @@
 
   Visualizations created from user-selected filtered data
 
-  # Our Topic: Renewable Vehicle Adoption in the U.S.
+  # Our Topic: U.S. Renewable Energy Vehicle Adoption 
 
   # Questions to be answered:
   1. Which states in the US are the most supportive of alternative energy vehicles? 
