@@ -42,9 +42,11 @@
   # Questions to be answered:
   1. Which states in the US are the most supportive of alternative energy vehicles? 
 
-  2. In the US, what are the most ideal states to own and or drive an electric car? 
+  2. Which states are the most supportive of Electric energy vehicles, and are they the same states or different from the collective alternative Energy TYPES? (Biodiesel, Ele, Ethanol (E85), Renewable Diesel) 
 
-  3. What states have the largest population of fast charging stations?
+  3. Which states have the most efficient electric vehicle charging infrastructure? 
+     - Which states are not ideal to travel through with an electric vehicle in the winter months?
+
  
   # Data Set leveraged for the project 
   NREL is a national laboratory of the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, operated by the Alliance for Sustainable Energy LLC.
