@@ -54,7 +54,8 @@
 
   # View Raghen's interactive map via this link
 https://raghenm.github.io/Data_Viz_Project_3_Mapp_App/
-- Note: I deployed this app to pages from another repository that is just holding my work for the project. 
+
+-Note: I deployed this app to pages from another repository that is just holding my work for the project. 
 
   
 
